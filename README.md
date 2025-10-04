@@ -1,4 +1,4 @@
-# ⏳ Pomodoro Timer 
+# ⏳ Pomodoro Timer v1
 
 A stylish **Pomodoro Timer app** built using
 [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter).\
@@ -87,3 +87,9 @@ Feel free to fork the repo, open issues, or submit pull requests!
 -   Improve the look and feel of UI/UX
 -   Add sound notifications\
 -   Add statistics/history tracking
+
+## Final Message
+
+-  This is a project with which I am improving my UI/UX skills.
+-  This project is the first out of a total of 3 iterations.
+-  Enjoy this build, and I will get back with a compact, aesthetic, and better version. (Maybe a cyberpunk themed?!?)
