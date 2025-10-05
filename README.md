@@ -91,5 +91,5 @@ Feel free to fork the repo, open issues, or submit pull requests!
 ## Final Message
 
 -  This is a project with which I am improving my UI/UX skills.
--  This project is the first out of a total of 3 iterations.
--  Enjoy this build, and I will get back with a compact, aesthetic, and better version. (Maybe a cyberpunk themed?!?)
+-  This project is the first out of a total of 5 iterations.
+-  Enjoy this build, and I will get back with a compact, aesthetic, and better version.
