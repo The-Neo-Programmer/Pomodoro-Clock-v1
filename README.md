@@ -20,7 +20,7 @@ sessions** and **breaks**, following the Pomodoro technique.
 
 ## 📂 Repository Structure
 
-    pomodoro-timer/
+    pomodoro-Clock-v1/
     │
     ├── pomodoro.py              # Main script
     ├── requirements.txt         # Dependencies
@@ -34,8 +34,8 @@ sessions** and **breaks**, following the Pomodoro technique.
 1.  Clone this repository:
 
     ``` bash
-    git clone https://github.com/your-username/pomodoro-timer.git
-    cd pomodoro-timer
+    git clone https://github.com/your-username/Pomodoro-Clock-v1.git
+    cd Pomodoro-Clock-v1
     ```
 
 2.  Install dependencies:
@@ -47,7 +47,7 @@ sessions** and **breaks**, following the Pomodoro technique.
 3.  Run the app:
 
     ``` bash
-    python pomodoro.py
+    python pomodoro_v1.py
     ```
 
 ------------------------------------------------------------------------
